@@ -1,0 +1,15 @@
+{
+  "datemark": "20150323",
+  "keys": [
+    {
+      "value": "USER1_1234565794fasld5",
+      "limit": "100",
+      "times": 98
+    },
+    {
+      "value": "USER2_1fadsf5794fasld5",
+      "limit": "100",
+      "times": "100"
+    }
+  ]
+}
