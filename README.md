@@ -1,4 +1,4 @@
-# Send SMS Messages via Email with Twilio Step by Step. A node.js project.
+# Send SMS Messages via Email with Twilio. a node.js script.
 
 ### Below is a list of my server environment.
 
